@@ -11,6 +11,5 @@ I'm a creative junior (if I can call myself that) frontend developer and student
 
 ---
 <p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianskowron&show_icons=true&locale=en&layout=compact" alt="sebastianskowron" />
-<img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sebastianskowron&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianskowron&show_icons=true&locale=en&layout=compact" alt="sebastianskowron" />
 </p>
