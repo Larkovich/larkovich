@@ -29,5 +29,10 @@ If you're interested in collaboration, have any questions, or suggestions, feel 
 
 Thank you for visiting my GitHub profile!
 
+One more thing...
+
+❤️🐧 > 🪟
+And don't even try to argue
+
 ---
 
