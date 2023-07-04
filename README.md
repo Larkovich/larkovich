@@ -1,3 +1,7 @@
+RENOVATION OF THE GITHUB PROFILE
+
+NEW STUFF SOON!!!
+
 
 # :punch: Hi there, I'm Sebastian!
 
