@@ -28,7 +28,7 @@ On my GitHub profile, you will find a variety of projects I have been involved i
 ## Contact
 If you're interested in collaboration, have any questions, or suggestions, feel free to reach out to me. You can find my contact details below.
 
-- Email: codelark.development@gmail.com
+- Email: sebastian@codelark.me
 - LinkedIn: [linkedin.com/in/skowron-sebastian](https://www.linkedin.com/in/skowron-sebastian)
 
 Thank you for visiting my GitHub profile!
