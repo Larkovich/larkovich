@@ -1,42 +1,28 @@
-RENOVATION OF THE GITHUB PROFILE
-
-NEW STUFF SOON!!!
-
-
 # :punch: Hi there, I'm Sebastian!
 
 ## About Me
-I'm a Computer Science student specializing in IT Cloud Solution Architecture. Currently, I work as a Junior DevOps, where I gain valuable experience in managing infrastructure and automating processes in IT environments.
 
-As a freelancer, I enjoy working on various projects, including web development and other assignments. My knowledge and skills allow me to deliver professional solutions to my clients.
+I'm a DevOps/SRE/Admin professional with a passion for coding and cloud solutions. By day, I manage infrastructure and ensure reliability in IT environments. On the side, I work as a web developer, building secure and scalable applications. When I'm not coding, I'm diving deep into automation, infrastructure management, and cybersecurity.
 
-## Interests
-My main interests revolve around three areas:
+## What I Do
 
-### 1. Frontend
-I love creating beautiful and intuitive user interfaces. I utilize the latest technologies such as React, Tailwind, and TypeScript... mostly everytinhg what I use is JavaScript... I love to deliver responsive and accessible web pages.
+- **DevOps & SRE**: Automating infrastructure, ensuring reliability, and deploying software in cloud environments.
+- **Web Development**: Crafting responsive, user-friendly interfaces with a focus on JavaScript, React, and modern web technologies.
+- **Cybersecurity**: Exploring the latest in data protection, ethical hacking, and system security.
 
-### 2. Cybersecurity
-Security is of utmost importance to me. I'm interested in topics related to data protection, system penetration, hacking and security awareness. I aspire to specialize in this field in the future.
+## What You'll Find Here
 
-### 3. DevOps and Cloud
-Automation, infrastructure management, and software deployment are areas that fascinate me. I aim to grow as a DevOps specialist to create efficient and scalable solutions in cloud environments.
+On my GitHub, you'll discover a mix of projects showcasing my journey in DevOps, SRE, web development, and more. Whether it's code, scripts, or full-fledged applications, there's something for tech enthusiasts and professionals alike.
 
-## GitHub
-On my GitHub profile, you will find a variety of projects I have been involved in. I have also published some of my projects and source code that may be of interest to you.
+## Let's Connect
 
-## Contact
-If you're interested in collaboration, have any questions, or suggestions, feel free to reach out to me. You can find my contact details below.
+Interested in collaborating or just want to chat? Reach out to me!
 
-- Email: sebastian@codelark.me
-- LinkedIn: [linkedin.com/in/skowron-sebastian](https://www.linkedin.com/in/skowron-sebastian)
+- **Email**: sebastian@codelark.pl
+- **LinkedIn**: [linkedin.com/in/skowron-sebastian](https://www.linkedin.com/in/skowron-sebastian)
 
-Thank you for visiting my GitHub profile!
+Thanks for stopping by!
 
-One more thing...
-
-❤️🐧 > 🪟
-And don't even try to argue
+❤️🐧 > 🪟 And don't even try to argue
 
 ---
-
