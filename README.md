@@ -23,6 +23,7 @@ Interested in collaborating or just want to chat? Reach out to me!
 
 Thanks for stopping by!
 
-❤️🐧 > 🪟 And don't even try to argue
+> <i>A computer is like air conditioning - It becomes useless when you open Windows</i>
+> <i>~ Linus Torvalds</i>
 
 ---
