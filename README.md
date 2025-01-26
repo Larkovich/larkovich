@@ -18,7 +18,6 @@ On my GitHub, you'll discover a mix of projects showcasing my journey in DevOps,
 
 Interested in collaborating or just want to chat? Reach out to me!
 
-- **GitLab**: [gitlab.com/LinuxFanboy](https://www.linkedin.com/in/skowron-sebastian)
 - **LinkedIn**: [linkedin.com/in/skowron-sebastian](https://www.linkedin.com/in/skowron-sebastian)
 
 Thanks for stopping by!
